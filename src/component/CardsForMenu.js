@@ -3,7 +3,7 @@ import { Card } from "react-bootstrap";
 import { Row } from "react-bootstrap";
 import { CardGroup } from "react-bootstrap";
 import { Col } from "react-bootstrap";
-import imgl from "D:/Projects/React/cofeeshop/cofee/src/pictures/latte.jpg"
+import imgl from "E:/Projects/React/cofeeshop/cofee/src/pictures/latte.jpg"
 
 export default function CardsForMenu() {
     return (

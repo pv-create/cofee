@@ -5,7 +5,7 @@ import { ListGroup } from 'react-bootstrap';
 import { Accordion } from 'react-bootstrap';
 
 var style = {
-    backgroundColor: "#292929",
+    backgroundColor: "#615f5f",
     borderTop: "1px solid #E7E7E7",
     textAlign: "center",
     padding: "20px",

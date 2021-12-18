@@ -2,9 +2,9 @@ import React from "react";
 import { Navbar, Container, NavDropdown } from 'react-bootstrap';
 import { Nav } from 'react-bootstrap';
 import { Carousel } from 'react-bootstrap';
-import png1 from "D:/Projects/React/cofeeshop/cofee/src/pictures/cofee1.png";
-import png2 from "D:/Projects/React/cofeeshop/cofee/src/pictures/cofee2.jpg";
-import png3 from "D:/Projects/React/cofeeshop/cofee/src/pictures/cofee3.jpg";
+import png1 from "E:/Projects/React/cofeeshop/cofee/src/pictures/cofee1.png";
+import png2 from "E:/Projects/React/cofeeshop/cofee/src/pictures/cofee2.jpg";
+import png3 from "E:/Projects/React/cofeeshop/cofee/src/pictures/cofee3.jpg";
 export default function Caruselka() {
     return (
         <Carousel>

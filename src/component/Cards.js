@@ -3,9 +3,9 @@ import { Navbar, Container, NavDropdown } from 'react-bootstrap';
 import { Card } from "react-bootstrap";
 import { CardGroup } from "react-bootstrap";
 import { Button } from "react-bootstrap";
-import imgp from "D:/Projects/React/cofeeshop/cofee/src/pictures/pavel.jpg";
-import imga from "D:/Projects/React/cofeeshop/cofee/src/pictures/artem.jpg";
-import imgm from "D:/Projects/React/cofeeshop/cofee/src/pictures/misha.jpg";
+import imgp from "E:/Projects/React/cofeeshop/cofee/src/pictures/pavel.jpg";
+import imga from "E:/Projects/React/cofeeshop/cofee/src/pictures/artem.jpg";
+import imgm from "E:/Projects/React/cofeeshop/cofee/src/pictures/misha.jpg";
 
 export default function Cards() {
     return (
@@ -26,7 +26,7 @@ export default function Cards() {
             <Card>
                 <Card.Img variant="top" src={imga} />
                 <Card.Body>
-                    <Card.Title>Артем</Card.Title>
+                    <Card.Title>Артем</Card.Title> 
                     <Card.Text>
                         This card has supporting text below as a natural lead-in to additional
                         content.{' '}

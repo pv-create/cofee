@@ -8,6 +8,7 @@ import React from 'react';
 import { Route } from 'react-router-dom';
 import NaviBar from './component/Navibar';
 import Footer from './component/Footer';
+import Order from './component/Order';
 
 
 import { BrowserRouter as Router, Routes, Link } from 'react-router-dom';
@@ -23,7 +24,7 @@ function App() {
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
-          <Route path="/menu" element={<Menu />} />
+          <Route path="/order" element={<Order />} />
         </Routes>
       </Router>
       <Footer />
